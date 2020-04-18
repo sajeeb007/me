@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Mali', cursive;
+}
+p{
+  color: #313E47;
+  font-size: 1.35rem;
+}
+.bla{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 25px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Rock Salt', cursive;
+  font-size: 3rem;
+  color: #5B2351;
+
+}
+h2{
+  font-family: 'Chilanka', cursive;
+  font-size: 2rem;
+  color: #2b2e4a;
+
+}
+h3{
+  font-family: 'Chilanka', cursive;
+  color: #204051;
+}
+div{
+  background-color: #e0ebe8;
+}
+.skill-row{
+  width: 40%;
+  margin: 100px auto 100px 15%;
+  text-align: left;
+  line-height: 1.5;
+}
+.skill-rowH{
+  width: 40%;
+  margin: 100px 15% 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 25%;
+  bottom: 50%;
+}
+.top-cloud{
+  position:absolute;
+  left: 25%;
+  top: 10%;
+}
+.top{
+  position: relative;
+  padding: 100px;
+}
+.sajeebpic{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+}
+.icon{
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin: 30px;
+
+}
+.icon:hover{
+  -ms-transform: rotate(15deg); /* IE 9 */
+   -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+   transform: rotate(15deg);
+
+}
+.iconH{
+  height: 150px;
+  width: 150px;
+  margin: 30px;
+  float: right;
+}
+hr{
+  border-style: solid;
+  width: 70%;
+}
+button{
+  color: white;
+  margin-bottom: 45px;
+  margin-top: 45px;
+  background-color: #E4B363;
+  font-size: 12px;
+  border-radius: 12px;
+  text-decoration: none;
+}
+button:hover{
+  background-color: #DDAE7E;
+}
+.bottom-container{
+  height: 150px;
+  background-color: #90BE6D;
+}
+.footer-link{
+  position: relative;
+  margin-left: 20px;
+  top: 40px;
+  font-size: 20px;
+  color: #DDE392;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: white;
+}
+.btn{
+  color: white;
+  font-size: 16px;
+
+}
+
+.copy{
+  position: relative;
+  top: 70px;
+  color: white;
+}
